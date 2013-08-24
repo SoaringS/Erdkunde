@@ -10,7 +10,7 @@ Auftraggeber: (Frau Rhode)
 
 Problembeschreibung
 -------------------
-Zu wenig Schüler lernen fleißig (Vokabeln,) die Hauptstädte unserer Bundesländer oder die Matheformeln, weil es ihnen einfach keinen Spaß macht. 
+Zu wenig Schüler lernen fleißig die Hauptstädte unserer Bundesländer, die Flüsse oder Gebirge, weil es ihnen einfach keinen Spaß macht. 
 Dieses Programm soll dazu dienen, die Schüler in ihrer Freizeit bzw Freistunden zu animieren, ihren Lernstatus zu fördern. Damit unser Programm später wirklich zum Einsatz kommt, werden wir einen Lehrer als Auftraggeber auswählen. 
  
 
