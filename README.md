@@ -10,18 +10,18 @@ Auftraggeber: (Frau Rhode)
 
 Problembeschreibung
 -------------------
-Zu wenig Sch�ler lernen flei�ig die Hauptst�dte unserer Bundesl�nder, die Fl�sse oder Gebirge, weil es ihnen einfach keinen Spa� macht. 
-Dieses Programm soll dazu dienen, die Sch�ler in ihrer Freizeit bzw Freistunden zu animieren, ihren Lernstatus zu f�rdern. Damit unser Programm sp�ter wirklich zum Einsatz kommt, werden wir einen Lehrer als Auftraggeber ausw�hlen. 
+Zu wenig Schüler lernen fleißig die Hauptstädte unserer Bundesländer, die Flüsse oder Gebirge, weil es ihnen einfach keinen Spaß macht. 
+Dieses Programm soll dazu dienen, die Schüler in ihrer Freizeit bzw Freistunden zu animieren, ihren Lernstatus zu fördern. Damit unser Programm später wirklich zum Einsatz kommt, werden wir einen Lehrer als Auftraggeber auswählen. 
  
 
 Leistung des Programms
 ----------------------
-- Lernaufgaben sowie Spiele die das Lernen f�rdern
-- M�glichkeit f�r den Lehrer Aufgaben zu erstellen -> Weitergabe der Aufgaben per  
+- Lernaufgaben sowie Spiele die das Lernen fördern
+- Möglichkeit für den Lehrer Aufgaben zu erstellen -> Weitergabe der Aufgaben per  
   Server
-- Sch�leraccounts mit Lernstatus
-- Lehrer k�nnen die Leistungen der Sch�ler einsehen (live?)
+- Schüleraccounts mit Lernstatus
+- Lehrer können die Leistungen der Schüler einsehen (live?)
 - (Schreiben eines Tests am PC mit direkter Auswertung)
-- (Klassen�bergreifendes Spiel mit Preis am Ende des Schuljahres?)
+- (Klassenübergreifendes Spiel mit Preis am Ende des Schuljahres?)
 - Schwierigkeitsgrade von Aufgaben und Spielen auf Klassenstufen abgestimmt
-- (Funktion zur zuf�lligen Aufgabenauswahl? -> Gl�cksratm��ig?) 
+- (Funktion zur zufälligen Aufgabenauswahl? -> Glücksratmäßig?) 
