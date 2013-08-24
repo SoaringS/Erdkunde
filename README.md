@@ -25,3 +25,5 @@ Leistung des Programms
 - (Klassenübergreifendes Spiel mit Preis am Ende des Schuljahres?)
 - Schwierigkeitsgrade von Aufgaben und Spielen auf Klassenstufen abgestimmt
 - (Funktion zur zufälligen Aufgabenauswahl? -> Glücksratmäßig?) 
+
+Test (Olga)
