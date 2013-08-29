@@ -1,9 +1,9 @@
-object Form1: TForm1
+object Karte: TKarte
   Left = 199
   Top = 127
   Width = 810
   Height = 438
-  Caption = 'Form1'
+  Caption = 'Karte'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText

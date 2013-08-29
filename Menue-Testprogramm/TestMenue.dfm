@@ -1,9 +1,9 @@
-object Form1: TForm1
-  Left = 192
-  Top = 117
+object Menue: TMenue
+  Left = 568
+  Top = 233
   Width = 928
   Height = 480
-  Caption = 'Form1'
+  Caption = 'Menue'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -16,8 +16,8 @@ object Form1: TForm1
   object Label1: TLabel
     Left = 320
     Top = 40
-    Width = 291
-    Height = 78
+    Width = 296
+    Height = 75
     Caption = 'Erdkunde'
     Font.Charset = ANSI_CHARSET
     Font.Color = clWindowText
@@ -39,6 +39,7 @@ object Form1: TForm1
     Font.Style = [fsBold]
     ParentFont = False
     TabOrder = 0
+    OnClick = Button1Click
   end
   object Button2: TButton
     Left = 376

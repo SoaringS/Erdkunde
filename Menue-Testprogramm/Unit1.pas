@@ -7,7 +7,7 @@ uses
   ExtCtrls, jpeg;
 
 type
-  TForm1 = class(TForm)
+  TKarte = class(TForm)
     ImgGlobus: TImage;
     Globus: TTimer;
     procedure GlobusTimer(Sender: TObject);
@@ -18,14 +18,14 @@ type
   end;
 
 var
-  Form1: TForm1;
+  Karte: TKarte;
   i:integer  = 0;
 
 implementation
 
 {$R *.DFM}
 
-procedure TForm1.GlobusTimer(Sender: TObject);
+procedure TKarte.GlobusTimer(Sender: TObject);
 begin
      inc(i);
      ImgGlobus.Picture.LoadFromFile('Bilder/('+IntToStr(i)+').jpg');

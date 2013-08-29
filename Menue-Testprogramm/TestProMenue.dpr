@@ -2,12 +2,14 @@ program TestProMenue;
 
 uses
   Forms,
-  TestMenue in 'TestMenue.pas' {Form1};
+  TestMenue in 'TestMenue.pas' {Menue},
+  Unit1 in 'Unit1.pas' {Karte};
 
 {$R *.RES}
 
 begin
   Application.Initialize;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TMenue, Menue);
+  Application.CreateForm(TKarte, Karte);
   Application.Run;
 end.

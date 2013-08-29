@@ -7,12 +7,13 @@ uses
   StdCtrls;
 
 type
-  TForm1 = class(TForm)
+  TMenue = class(TForm)
     Label1: TLabel;
     Button1: TButton;
     Button2: TButton;
     Button3: TButton;
     Button4: TButton;
+    procedure Button1Click(Sender: TObject);
   private
     { Private-Deklarationen }
   public
@@ -20,10 +21,17 @@ type
   end;
 
 var
-  Form1: TForm1;
+  Menue: TMenue;
 
 implementation
 
+uses Unit1;
+
 {$R *.DFM}
+
+procedure TMenue.Button1Click(Sender: TObject);
+begin
+     Karte.ShowModal;
+end;
 
 end.
